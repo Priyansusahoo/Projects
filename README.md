@@ -1,2 +1,2 @@
 # Java Projects 🧩
-### <div align="left"> 1. [Music Player App](https://www.linkedin.com/in/priyansu1/) </div>
+### <div align="left"> 1. [Music Player App](https://github.com/Priyansusahoo/Projects/tree/main/SongPlaylistApp) </div>
